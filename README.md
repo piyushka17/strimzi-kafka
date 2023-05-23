@@ -1,2 +1,2 @@
-# Deployment for strimzi kafka operator.
-# Deployment for kafka cluster.
+# Deployment yaml for strimzi kafka operator.
+# Deployment yaml for kafka cluster.
